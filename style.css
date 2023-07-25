@@ -1,0 +1,20 @@
+.keys{
+    margin-top: 200px;
+    color:  black;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.key{
+    box-shadow: 3px 5px 89px 0px rgba(0,0,0,0.38);
+    padding: 8px;
+    border: 2px solid black ;
+
+}
+kbd{
+    font-weight: bolder ;
+    font-size: 25px;
+}
+.playing{
+    background-color: blueviolet;
+}
